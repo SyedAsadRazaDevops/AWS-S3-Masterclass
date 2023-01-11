@@ -19,11 +19,11 @@ With the variety of use cases and features, it is time consuming to read through
 
 
 ## -1 Create user and configre CLI
-1- first this first, crate an user for s3 in **IAM** service.
-2- click on **user**.
-3-enter **Username =xxx** select Type **programmatic access**
-4- Set permissions (use existing policy) and **created it**.
-5- go to terminal of linux server run the command `aws configure`
-6- enter the access & securit key of new user.
-7- **NOTE:** it best to define the region as default or given on every command on terminal by `--region ue-west-1`.
-8- confirm by run this command `aws s3 ls`.
+  1- first this first, crate an user for s3 in **IAM** service.
+  2- click on **user**.
+  3-enter **Username =xxx** select Type **programmatic access**
+  4- Set permissions (use existing policy) and **created it**.
+  5- go to terminal of linux server run the command `aws configure`
+  6- enter the access & securit key of new user.
+  7- **NOTE:** it best to define the region as default or given on every command on terminal by `--region ue-west-1`.
+  8- confirm by run this command `aws s3 ls`.
