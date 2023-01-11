@@ -49,6 +49,8 @@ With the variety of use cases and features, it is time consuming to read through
 - DR plans
 
 **YOU CAN CREATE UP TO 100 BUCKETS BY DEFAULT (add more by request)**
+
+## -4 S3 KEY POINTS ?
 - S3 value formate be: [ Bucket + Key + VersionID ] 
 - Object key used UFT-8 encoding 
 - s3 doest provid object locking
