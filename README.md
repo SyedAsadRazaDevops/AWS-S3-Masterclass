@@ -54,5 +54,6 @@ With the variety of use cases and features, it is time consuming to read through
 > s3 doest provid object locking
 > s3 is secure by default
 > s3 is RESTful web service
+
 **S3 CHARGE FOR** (storeage,request,data transfer,mangment funtions,S3 inventory)
 
