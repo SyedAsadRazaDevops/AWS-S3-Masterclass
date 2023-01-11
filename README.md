@@ -27,3 +27,26 @@ With the variety of use cases and features, it is time consuming to read through
 - enter the access & securit key of new user.
 - **NOTE:** it best to define the region as default or given on every command on terminal by `--region ue-west-1`.
 - confirm by run this command `aws s3 ls`.
+
+## -2 What is S3 ?
+- store object **(file/videos/picture)**.
+- dont need to create **OS**.
+- object can uptu **5TB**
+- highly durable 99.999999999 **(11 9's)**.
+- data is replicated to multiple regions
+- highly scalable
+- highly avalible
+- be secure by **IAM roles**
+- upload and downlod data using web
+
+**S3 HAS A UNIVERSAL NAMESPACE**
+
+## -3 S3 is used for?
+- bacckup and archive
+- static website hosting
+- bigdata and aynalytics
+- content storage and distribution
+- DR plans
+
+**YOU CAN CREATE UP TO 100 BUCKETS BY DEFAULT (add more by request)**
+> S3 value formate be: [ Bucket + Key + VersionID ] 
