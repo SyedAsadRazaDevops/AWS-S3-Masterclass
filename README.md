@@ -50,3 +50,9 @@ With the variety of use cases and features, it is time consuming to read through
 
 **YOU CAN CREATE UP TO 100 BUCKETS BY DEFAULT (add more by request)**
 > S3 value formate be: [ Bucket + Key + VersionID ] 
+> Object key used UFT-8 encoding 
+> s3 doest provid object locking
+> s3 is secure by default
+> s3 is RESTful web service
+**S3 CHARGE FOR** (storeage,request,data transfer,mangment funtions,S3 inventory)
+
