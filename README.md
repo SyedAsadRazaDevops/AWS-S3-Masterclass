@@ -69,4 +69,9 @@ With the variety of use cases and features, it is time consuming to read through
 - rarely access objectS
   - GLACIER
   - DEEP_ARCHIVE
+- **INTELLIGENT_TIERING**
+there are set of rules in this tier, also called lifecycle of bucket:
+  - Transition rules
+  - Expiration rules
 
+<img width="1422" alt="Screenshot 2023-01-12 at 12 28 04 PM" src="https://user-images.githubusercontent.com/71556060/212004232-478c5ece-7c24-403f-9cc6-07b58ce1463e.png">
