@@ -50,7 +50,7 @@ With the variety of use cases and features, it is time consuming to read through
 
 **YOU CAN CREATE UP TO 100 BUCKETS BY DEFAULT (add more by request)**
 
-## -4 S3 KEY POINTS ?
+## -4 S3 key points?
 - S3 value formate be: [ Bucket + Key + VersionID ] 
 - Object key used UFT-8 encoding 
 - s3 doest provid object locking
@@ -58,4 +58,15 @@ With the variety of use cases and features, it is time consuming to read through
 - s3 is RESTful web service
 
 **S3 CHARGE FOR** (storeage,request,data transfer,mangment funtions,S3 inventory)
+
+## -4 S3 classes/tiers?
+- frequently accesss objects
+  - STANDERD
+  - REDUCED REDENDENCY
+- infrequently access obects
+  - STANDERD_AI
+  - ONEZONE_AI
+- rarely access objectS
+  - GLACIER
+  - DEEP_ARCHIVE
 
