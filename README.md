@@ -83,5 +83,5 @@ there are set of rules in this tier, also called lifecycle of bucket:
 
 ## -4 try to create an s3 bucket on portal !
 
-## -4 LAB: use s3 select to read csv from bucket and get data from it using lamda funtion in python.
+
 
