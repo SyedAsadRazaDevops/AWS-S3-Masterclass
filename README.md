@@ -60,18 +60,28 @@ With the variety of use cases and features, it is time consuming to read through
 **S3 CHARGE FOR** (storeage,request,data transfer,mangment funtions,S3 inventory)
 
 ## -4 S3 classes/tiers?
+
 - frequently accesss objects
   - STANDERD
   - REDUCED REDENDENCY
+
 - infrequently access obects
   - STANDERD_AI
   - ONEZONE_AI
+
 - rarely access objectS
   - GLACIER
   - DEEP_ARCHIVE
+
 - **INTELLIGENT_TIERING**
+
 there are set of rules in this tier, also called lifecycle of bucket:
   - Transition rules
   - Expiration rules
 
 <img width="1422" alt="Screenshot 2023-01-12 at 12 28 04 PM" src="https://user-images.githubusercontent.com/71556060/212004232-478c5ece-7c24-403f-9cc6-07b58ce1463e.png">
+
+## -4 try to create an s3 bucket on portal !
+
+## -4 LAB: use s3 select to read csv from bucket and get data from it using lamda funtion in python.
+
